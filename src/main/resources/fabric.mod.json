@@ -8,8 +8,8 @@
 		"Spaceicality"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Spaceicality/shotformat",
+		"issues": "https://github.com/Spaceicality/shotformat/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/shotformat/icon.png",
